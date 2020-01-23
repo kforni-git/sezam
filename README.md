@@ -1,0 +1,2 @@
+# sezam
+Na potrzeby PU
